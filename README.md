@@ -2,7 +2,7 @@
 ## Sofiyah's Application
 
 ### App Description
-`TODO://` Codepath Prework Project
+ Codepath Prework Project
 
 
 <img src="http://g.recordit.co/BOfK0cRS2X.gif" width=200><br>
